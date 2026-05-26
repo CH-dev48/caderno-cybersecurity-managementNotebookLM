@@ -17,7 +17,7 @@ APLICAÇÕES WEB BASEADO NO TOP 10 OWASP UFCCQ, Felipe Ferreira Sampaio - https:
 6. A arte de enganar Kevin D. Mitnick & William L. Simon - https://www.mariscotron.libertar.org/wp-content/uploads/2021/01/A-Arte-de-Enganar-%E2%80%93-Kevin-D.-Mitnick.pdf
 7. OWSP security testing guide - https://owasp.org/www-project-web-security-testing-guide/
 8. Malware Analysis and Reverse-Engineering Cheat Sheet - https://zeltser.com/media/docs/malware-analysis-cheat-sheet.pdf
-9.  FEBRABAN TECH - segurnaça - https://febrabantech.febraban.org.br/temas/seguranca?utm_source=chatgpt.com
+9.  FEBRABAN TECH - segurança - https://febrabantech.febraban.org.br/temas/seguranca?utm_source=chatgpt.com
 10. Introdução aos testes de Intrusão(Pentest) Leonardo Dias - https://semanacap.bcp.nic.br/files/apresentacao/arquivo/2147/Slides%20-%20Introdu%C3%A7%C3%A3o%20aos%20Testes%20de%20Intrus%C3%A3o%20(Pentest).pdf
 
 ## 🧠 Engenharia de Prompts e "Cicatrizes" (Troubleshooting)
